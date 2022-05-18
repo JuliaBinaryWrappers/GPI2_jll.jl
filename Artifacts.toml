@@ -1,0 +1,27 @@
+[[GPI2]]
+arch = "aarch64"
+git-tree-sha1 = "b13dd719183c43024ca60f2fb2ec2f6ac14a3a51"
+libc = "glibc"
+os = "linux"
+
+    [[GPI2.download]]
+    sha256 = "237664f75fdec740576eeab751b098fd030a47526cdcd49729236d7dae44615d"
+    url = "https://github.com/JuliaBinaryWrappers/GPI2_jll.jl/releases/download/GPI2-v1.5.1+0/GPI2.v1.5.1.aarch64-linux-gnu.tar.gz"
+[[GPI2]]
+arch = "powerpc64le"
+git-tree-sha1 = "c8bb77c924f42bc88f39515d800997bf89cc7385"
+libc = "glibc"
+os = "linux"
+
+    [[GPI2.download]]
+    sha256 = "f65162e0276547ac6e2bae235dd7ec2af3d9f7c4a008600128cd2de284ca1733"
+    url = "https://github.com/JuliaBinaryWrappers/GPI2_jll.jl/releases/download/GPI2-v1.5.1+0/GPI2.v1.5.1.powerpc64le-linux-gnu.tar.gz"
+[[GPI2]]
+arch = "x86_64"
+git-tree-sha1 = "236796ec89156a7e19e07ea8e96f036914e4dfdb"
+libc = "glibc"
+os = "linux"
+
+    [[GPI2.download]]
+    sha256 = "5d20d1a8e740d1200c8ff5eef5d820d79f06c418ba024eb70423a86693dba3b2"
+    url = "https://github.com/JuliaBinaryWrappers/GPI2_jll.jl/releases/download/GPI2-v1.5.1+0/GPI2.v1.5.1.x86_64-linux-gnu.tar.gz"
